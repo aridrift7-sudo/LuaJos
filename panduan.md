@@ -1,0 +1,2 @@
+​Login Hampir Selesai!
+Abaikan isi halaman ini. Fokuskan Jieshuo ke bilah alamat (address bar) di bagian paling atas Chrome. Salin seluruh tautan webnya, lalu kembali ke aplikasi dan tempelkan di kolom Secret Key.
